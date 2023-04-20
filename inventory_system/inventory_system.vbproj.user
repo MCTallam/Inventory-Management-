@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADMIN\frm_addGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_mainAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_ManageProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_ManageStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_ManageUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CASHEIR\frm_billPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CASHEIR\frm_CancleOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CASHEIR\frm_discount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CASHEIR\frm_mainCashier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
